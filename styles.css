@@ -3,7 +3,6 @@ margin: 0;
 
 }
 .container{
-width: 90%;
 margin: 0 auto;
 background-color: lightgray;
 }
@@ -31,16 +30,16 @@ nav ul {
 }
 nav li{
     display: inline-block;
-    margin-left: 90px;
-    padding-top: 40px;
-    padding-left: 20px;
+    margin-left: 50px;
+    padding-top: 35px;
+    padding-right: 30px;
     
 }
 nav a {
     color: grey;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 25px;
 }
 nav a:hover {
     color: black
